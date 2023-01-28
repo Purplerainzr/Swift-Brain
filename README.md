@@ -18,7 +18,7 @@ _Adding the Beta makes your server more perfect than it already is!_
 ## 📜 Terms of use
 * You can't speak in a "**we did it**" way!
 * You cannot sell it!
-* We will not accept identical copies of Beta™!
+* We will not accept identical copies of Swift Bot!
 
 ## 👨‍💻 Turning on the swift
 
